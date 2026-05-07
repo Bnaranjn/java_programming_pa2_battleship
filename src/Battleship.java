@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Random;
 /**
+ *JAVA Programming Lab
  * PA #2 -- Battleship
  *
  * Implement a single-player Battleship game on a 10x10 board.
@@ -14,10 +15,8 @@ import java.util.Random;
  *   - MODE     : d/D (Debug) or r/R (Release)
  *   - FILE_NAME: board file path (may contain spaces)
  *
- *
  * Submit this file as: Battleship.java
  * - Public class name must be exactly "Battleship"
- * - No Korean comments allowed
  * - Must compile cleanly: javac Battleship.java
  */
 
